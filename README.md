@@ -33,7 +33,7 @@ GIF created with peek
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Took me a while to understand github submission but helloword app was pretty easy
 
 ## License
 
