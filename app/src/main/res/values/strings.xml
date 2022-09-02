@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">helloworld</string>
+    <string name="lemur_description">Hello World, I\'m Ryan, this is my lemur.</string>
+</resources>
